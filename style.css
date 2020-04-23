@@ -1,0 +1,502 @@
+body{
+	background-image: url('img/background.png');
+}
+
+.all{
+
+	display: flex;
+	flex-direction: column;
+ 
+}
+
+.hide {
+  display: none!important;
+}
+
+.header_acquaintance{
+	margin:0px auto;
+	background-color: #eff3f7;
+	max-width: 1195px;
+	min-width: 1195px;
+  	min-height: 117px;
+	display: flex;
+	flex-direction: column;
+}
+
+.hr1{
+	width: 1195px; 
+	margin-top: auto;
+}
+
+.high_row{
+	display: flex;
+	min-height: 100%;
+}
+
+.acquaintance_images{
+	display: flex;
+
+	margin-top:30px; 
+
+}
+
+.socset{
+	padding: 0px 12px;
+	
+
+}
+
+.acquaintance_text{
+	font-family: 'Fira Sans', sans-serif;
+	color: #58697a;
+	font-size: 45px;
+	padding-left: 4px;
+	padding-top: 27px;
+	min-width: 71%;
+	justify-content:center;
+	align-items:center;
+}
+
+.inst_img{
+	width: 48px;
+	height: 48px;
+}
+
+.logo_men{
+	padding: 0px 0px;
+}
+
+.logogo{
+	padding-left: 70px;
+	padding-top: 35px;
+}
+
+
+
+.change_columns{
+	
+}
+
+.me{
+	margin-left: 260px;
+	width: 250px;
+  	height: 73px;
+  	background-color: #3ba8c0;
+  	border-radius: 5px;
+  	margin-top: 5px;
+}
+
+.my_works{
+	background-color: #eff3f7;
+	width: 250px;
+  	height: 73px;
+	margin-left: 260px;
+	margin-top: 7px;
+	border-radius: 5px;
+}
+
+.all_column_info{
+	margin-top: 50px; 
+	justify-content:center;
+
+	width: 1100px;
+	display: flex;
+}
+
+.two_column_info{
+	
+
+}
+
+.contact_me{
+	background-color: #eff3f7;
+	width: 250px;
+  	height: 73px;
+	margin-left: 260px;
+	margin-top: 7px;
+	border-radius: 5px;
+}
+
+.block1{
+	display: flex;
+	flex-direction:column;
+}
+
+.me_text{
+	font-family: 'Fira Sans', sans-serif;
+  	font-size: 23px;
+  	color: #ffffff; 
+	padding-top: 23px;
+	padding-left: 18px;
+}
+
+.my_works_text{
+	font-family: 'Fira Sans', sans-serif;
+  	font-size: 23px;
+  	color: #3ba8c0; 
+	padding-top: 23px;
+	padding-left: 18px;
+}
+
+.contact_me_text{
+	font-family: 'Fira Sans', sans-serif;
+  	font-size: 23px;
+  	color: #959aa8; 
+	padding-top: 23px;
+	padding-left: 18px;
+}
+
+.main_contact{
+	margin-left: 260px;
+	width: 250px;
+  	height: 40px;
+  	background-color: #3ba8c0;
+  	border-radius: 5px 5px 0px 0px;
+  	margin-top: 20px;
+}
+
+.pochta{
+	margin-left: 260px;
+	width: 250px;
+  	height: 40px;
+  	margin-top: 0px;
+	background-color: #41b9d4;
+	display: flex;
+}
+
+.main_contact_text{
+	font-size: 21px;
+	color: #fbfcfd;	
+	padding-top: 8px;
+	padding-left: 18px;
+}
+
+.pochta_img{
+	padding-top: 12px;
+	padding-left: 18px;
+
+}
+
+.qqq{
+	text-decoration:none
+}
+.my_pochta{
+	font-size: 12px;
+	color: #ffffff;
+	padding-top: 12px;
+	margin-left: 10px;
+}
+
+.my_telephone{
+	margin-left: 260px;
+	width: 250px;
+  	height: 40px;
+  	margin-top: 0px;
+	background-color: #48cbe8;
+	display: flex;
+}
+
+.tel{
+	padding-top: 10px;
+	padding-left: 18px;	
+}
+
+.discord{
+	margin-left: 260px;
+	width: 250px;
+  	height: 40px;
+  	margin-top: 0px;
+	background-color: #51daf8;
+	border-radius: 0 0 5px 5px;
+	display: flex;
+}
+
+.ds{
+	padding-top: 7.5px;
+	padding-left: 15px;	
+	width: 30px;
+
+
+}
+
+.my_telephone_my{
+	font-size: 20px;
+	color: #fbfcfd;	
+	padding-top: 9px;
+	padding-left: 10px;
+}
+
+.ds_text{
+	font-size: 19px;
+	color: #ffffff;
+	padding-top: 9px;
+	margin-left: 10px;
+
+}
+
+.basic_information{
+	width: 650px;
+  	height: 305px;
+  	border-radius: 3.9px;
+  	background-color: #eff3f7;
+	margin-left: 60px;
+	margin-top: 5px;
+	margin-bottom: 25px
+}
+
+
+.columns_info{
+	display: flex;
+	flex-direction: column;	
+}
+
+.basic_text{
+	font-family: 'Fira Sans', sans-serif;
+  	font-size: 30px;
+  	color: #3ba8c0;
+  	padding: 17px 22px;
+} 
+
+.line_me{
+	width: 380px;
+  	height: 2px;
+  	background-color: #3ba8c0;
+}
+
+.line_me2{
+	width: 250px;
+  	height: 2px;
+  	background-color: #3ba8c0;
+}
+
+
+.me_img{
+	width: 150px;
+  	height: 150px;
+  	border-radius: 75px;
+  	border: 3px solid #3ba8c0;
+  	margin: 30px 0 0 55px;
+}
+
+.text_whoisme{
+	font-family: 'Fira Sans', sans-serif;
+  	font-size: 18px;
+  	color: #37424d;
+  	margin:18px 0; 
+
+}
+
+.text_whoisme2{
+	font-family: 'Fira Sans', sans-serif;
+  	font-size: 18px;
+  	color: #37424d;
+  
+
+}
+
+.block_gradient{
+	background-image: linear-gradient(to top, #3ba8c0, #3ba8c0, #2e8ca2, #2e8ca2);
+	padding: 4px 12px;
+	color: #fff;
+	margin-top:6px;
+	border-radius: 5px;
+	font-size: 14px;
+}
+
+.photo_whoisme{
+	display: flex;
+}
+
+.whoisme{
+	margin:13px 0 0 15px; 
+}
+
+.git{
+	margin-top:6px;
+}
+
+.education{
+	width: 650px;
+  	height: 230px;
+  	border-radius: 3.9px;
+  	background-color: #eff3f7;
+  	margin-left: 60px;
+  	margin-top: 6px;
+  	margin-bottom: 25px;
+}
+
+.where_study{
+	display: flex;
+	margin-left: 60px;
+	margin-top: 30px;
+}
+
+.rrr{
+	padding-right: 30px;
+}
+
+.interst_aboutme{
+	width: 650px;
+  	height: 230px;
+  	border-radius: 3.9px;
+  	background-color: #eff3f7;
+  	margin-left: 60px;
+  		
+}
+
+.line_me3{
+	width: 550px;
+  	height: 2px;
+  	background-color: #3ba8c0;
+}
+
+.text_whoisme3{
+	font-family: 'Fira Sans', sans-serif;
+  	font-size: 15px;
+  	color: #37424d;
+}
+
+.rrr2{
+	padding-right: 30px;
+	padding-top:4px;  
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.all_my_works{
+	min-width: 650px;
+  	height: 255px;
+  	border-radius: 3.9px;
+  	background-color: #eff3f7;
+  	margin-left: 60px;
+
+}
+
+.first_site{
+	width: 180px;
+	height: 127px;
+	background-color: #fff;
+	margin:30px 0 0 20px;
+	border-radius: 10px; 
+  	border: 3px solid #3ba8c0;
+
+}
+
+.first_site_text{
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+	padding-top:25px 
+}
+
+.callme_header{
+	width:650px;
+	height:140px;  
+	background-color: #48cbe8;
+	margin-left:60px; 
+	border-radius: 5px 5px 0 0; 
+}
+ 
+.yyyy{
+	text-align: center;
+	padding-top: 58px;
+	font-size: 27px;
+  	
+  	color: rgb(255, 255, 255);
+}
+
+.mini_header{
+	width:650px;
+	height: 17px;
+	background-color: #67dffa;
+	margin-left:60px; 
+	
+}
+
+.header_callme{
+
+}
+
+.name_input{
+	border-radius: 5px;
+	border: 1.5px solid #67dffa;
+	width : 180px;
+    height: 30px;
+	max-width : 180px;
+	max-height: 30px;
+	min-width : 180px;
+	min-height: 30px;
+	font-size: 13px;
+	font-family: 'Fira Sans', sans-serif;
+	color: rgb(72, 203, 232);
+}
+
+.name{
+
+	font-size: 19px;
+  	font-family: "FiraSans", sans-serif;
+  	color: rgb(149, 154, 168);
+}
+
+.flex_name_email{
+	display: flex;
+}
+
+.columns_info3{
+	display: flex;
+	flex-direction: column;	
+	margin-top: 30px;
+}
+
+.message_for_me{
+	background-color: #eff3f7;
+	margin-left: 60px;
+}
+
+.ooo{
+	padding-left: 20px;
+}
+
+.bbb{
+	padding-left:125px; 
+}
+
+.input_message{
+	padding-top: 15px;
+	padding-left:125px; 
+}
+
+.message_input{
+	width : 385px;
+    height: 150px;
+	max-width : 385px;
+	max-height: 150px;
+	min-width : 385px;
+	min-height: 150px;
+
+	width: 385px;
+	height: 150px;
+	border-radius: 5px;
+	border: 1.5px solid #67dffa;
+	font-size: 13px;
+	font-family: 'Fira Sans', sans-serif;
+	
+	color: rgb(72, 203, 232);
+}
+
+.send{
+	margin-left:125px;
+	margin-top: 21px;
+	margin-bottom: 15px;
+	border-radius: 7.5px;
+	background-color: rgb(72, 203, 232);
+	padding: 6px;
+	font-family: 'Fira Sans', sans-serif;
+	cursor: pointer;
+}
+
+.send:hover { 
+	background: #67dffa; 
+
+}
